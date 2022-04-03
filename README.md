@@ -1,7 +1,7 @@
 # kodluyoruzilkrepo
 Kodluyoruz Eğitimi kapsamında açtığım ilk repo. İçerisinde bir adet README dosyası, bir adet de index.html barındırıyor.
 
-<img src="\img\github.png" width="auto">
+<img src="c:\img\github.png" width="auto">
 
 ## Installation 
 Öncelikle projeyi clonelayın. (Buraya sizin reponuzdan aldığınız link gelecek)
@@ -10,7 +10,8 @@ https://github.com/SinanSelek/kodluyoruzilkrepo.git
 
 ## Usage 
 Projeyi cloneladıktan sonra Visual Studio Code programında açınız.
-Linux için:
+
+- Linux için:
 
 cd kodluyoruzilkrepo
 code .

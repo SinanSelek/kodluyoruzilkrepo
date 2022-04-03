@@ -1,7 +1,7 @@
 # kodluyoruzilkrepo
 Kodluyoruz Eğitimi kapsamında açtığım ilk repo. İçerisinde bir adet README dosyası, bir adet de index.html barındırıyor.
 
-<img src="C:\Users\Dell\OneDrive - Pamukkale University\Belgeler\Git\kodluyoruzilkrepo\github.png" width="auto">
+<img src="https://github.com/SinanSelek/kodluyoruzilkrepo/blob/main/github.png" width="auto">
 
 ## Installation 
 Öncelikle projeyi clonelayın. (Buraya sizin reponuzdan aldığınız link gelecek)
